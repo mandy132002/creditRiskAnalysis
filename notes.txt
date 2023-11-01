@@ -1,0 +1,1 @@
+github link :  https://github.com/semasuka/Credit-card-approval-prediction-classification/blob/main/Credit_card_approval_prediction.ipynb
